@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 2560
     height: 1357
   m_ShowMode: 4
-  m_Title: Game
+  m_Title: Hierarchy
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 492}
   m_MaxSize: {x: 10000, y: 10000}
@@ -100,7 +100,7 @@ MonoBehaviour:
   m_MinSize: {x: 400, y: 200}
   m_MaxSize: {x: 32384, y: 16192}
   vertical: 0
-  controlID: 43
+  controlID: 17
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -146,7 +146,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 200}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 44
+  controlID: 18
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -308,9 +308,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: ea610000
+      m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 50f9ffff56faffff
+      m_ExpandedIDs: 18beffffb6bfffff46c0ffff3cc1ffff12c2ffff66c3ffff2cc5ffff66c7ffff5cd1ffffaed1fffffcd2ffffacd3ffff94d5ffff0edaffff32ddffff04e3ffffb2e3fffff4e3ffffbae7ffff00ebffff12eeffff3cf1ffff76f4ffffc0f4ffff08f5ffff4af5ffffb0f7ffff2afbffffc8820000f685000026860000aa8a0000e08a000032920000fe92000088980000489b0000d69c0000449d0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -416,7 +416,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes
+    - Assets/Prefabs
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 0
@@ -431,7 +431,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: a0630000
     m_LastClickedID: 25504
-    m_ExpandedIDs: 00000000a2610000a4610000a6610000a8610000
+    m_ExpandedIDs: 00000000a2600000a4600000a6600000a8600000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -459,7 +459,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff00000000a2610000a4610000a6610000a8610000
+    m_ExpandedIDs: ffffffff00000000a2600000a4600000a6600000a8600000448b0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
